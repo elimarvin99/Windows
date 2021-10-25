@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elima\\source\\repos\\Windows\\Windows\\Windows.csproj",
+      "projectUniqueName": "C:\\Users\\elima\\True Coders\\repos\\Windows\\Windows\\Windows.csproj",
       "projectName": "Windows",
-      "projectPath": "C:\\Users\\elima\\source\\repos\\Windows\\Windows\\Windows.csproj",
+      "projectPath": "C:\\Users\\elima\\True Coders\\repos\\Windows\\Windows\\Windows.csproj",
       "packagesPath": "C:\\Users\\elima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elima\\source\\repos\\Windows\\Windows\\obj\\",
+      "outputPath": "C:\\Users\\elima\\True Coders\\repos\\Windows\\Windows\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elima\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -37,15 +37,25 @@ namespace Windows
             //Param Section
         }
         // declare methods that are used in Main
-        public static double Sum(double x,double y)
+        public static double Sum(params double [] arr)
         {
-            double answer = x + y;
-            return answer;
+            double totalSum = 0.0;
+
+            foreach (int i in arr)
+            {
+                totalSum += i;
+            }
+            return totalSum ;
         }
-        public static double Multiply(double x, double y)
+        public static double Multiply(params double[] arr)
         {
-            double answer = x * y;
-            return answer;
+            double totalSum = 1.00;
+
+            foreach (int i in arr)
+            {
+                totalSum *= i;
+            }
+            return totalSum;
         }
         
 
