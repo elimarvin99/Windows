@@ -1,0 +1,14 @@
+C:\Users\elima\source\repos\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.exe
+C:\Users\elima\source\repos\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.deps.json
+C:\Users\elima\source\repos\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.runtimeconfig.json
+C:\Users\elima\source\repos\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.runtimeconfig.dev.json
+C:\Users\elima\source\repos\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.dll
+C:\Users\elima\source\repos\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.pdb
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.csproj.AssemblyReference.cache
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.AssemblyInfoInputs.cache
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.AssemblyInfo.cs
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.csproj.CoreCompileInputs.cache
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.dll
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.pdb
+C:\Users\elima\source\repos\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.genruntimeconfig.cache
