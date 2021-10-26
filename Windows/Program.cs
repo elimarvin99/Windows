@@ -4,9 +4,8 @@ namespace Windows
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void MadLib()
         {
-            // First Exercise
             Console.WriteLine("What is your name?");
             var name = Console.ReadLine();
             Console.WriteLine("What is your favorite color");
@@ -15,6 +14,15 @@ namespace Windows
             var animal = Console.ReadLine();
 
             Console.WriteLine($"My name is {name}. My favorite animal is a {animal}. He loves to eat {color} potatoes");
+        }
+       
+        
+        
+
+        static void Main(string[] args)
+        {
+            // First Exercise
+            MadLib();
 
             // Second Exercise
             Console.WriteLine("What is your first number you would like to add?");
@@ -39,6 +47,7 @@ namespace Windows
         // declare methods that are used in Main
         public static double Sum(params double [] arr)
         {
+            //placeholder value. by addition we start from zero
             double totalSum = 0.0;
 
             foreach (int i in arr)
@@ -49,6 +58,7 @@ namespace Windows
         }
         public static double Multiply(params double[] arr)
         {
+            // by multiplacation we start from 1, otherwise our value will always be 0
             double totalSum = 1.00;
 
             foreach (int i in arr)
