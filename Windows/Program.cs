@@ -56,16 +56,27 @@ namespace Windows
             }
             return totalSum ;
         }
+        public static int Subtraction(int num1, int num2)
+        {
+            var answer = num1 - num2;
+            return answer;
+        }
         public static double Multiply(params double[] arr)
         {
             // by multiplacation we start from 1, otherwise our value will always be 0
             double totalSum = 1.00;
-
+            
             foreach (int i in arr)
             {
                 totalSum *= i;
             }
             return totalSum;
+        }
+
+        public static double Division(int num1, int num2)
+        {
+            var answer = num1 / num2;
+            return answer;
         }
         
 
